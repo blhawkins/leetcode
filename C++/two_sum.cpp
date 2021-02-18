@@ -1,4 +1,4 @@
-//Leetcode Algorithm 1
+//Leetcode Algorithm #1
 //Difficulty: Easy
 
 //Instructions
